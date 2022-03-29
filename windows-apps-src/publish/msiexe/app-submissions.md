@@ -20,7 +20,7 @@ You can start your submission when your app is complete and ready to publish, or
 > [!NOTE]
 > You must have an active developer account in Partner Center in order to submit apps to the Microsoft Store.
 
-After your app is published, you can publish an updated version by creating another submission in Partner Center. Creating a new submission lets you make  whatever changes are needed, whether you're providing new packages or just changing details such as What’s new or Description. To create a new submission for a published app, click Update next to the most recent submission shown on its Overview page. You can also remove an app from the Store if you need to (and then make it available again later if you'd like).
+After your app is published, you can publish an updated version by creating another submission in Partner Center. Creating a new submission lets you make  whatever changes are needed, whether you're providing new packages or just changing details such as What’s new or Description. To create a new submission for a published app, click Update next to the most recent submission shown on its Overview page. 
 
 ## App submission checklist
 
@@ -81,7 +81,6 @@ Here are the details that you will need when creating your app submission. Requi
 | **Language**                | Required | At least one language is required. |
 | **Architecture**            | Required |       |
 | **Installer parameters**    | Required | Support for silent install is required. Other parameters are optional. |
-| **Let Microsoft decide...** |          | If selected, Microsoft will automatically make this app available to any appropriate future device families. |
 
 ## Store listings page
 
@@ -99,5 +98,5 @@ Each language has a separate store listing page. One listing page is required. I
 | **Additional system requirements** |          | Character limit: 200 characters per requirement; Requirements limit: 11 for each of minimum and recommended hardware. |
 | **Search terms**                   |          | Character limit: 30 per term; Term limit: 7; Maximum of 21 unique words total among all terms. |
 | **Copyright and trademark info**   |          | Character limit: 200    |
-| **Additional license terms**       | Required | Character limit: 10,000 |
+| **Applicable license terms**       | Required | Character limit: 10,000 |
 | **Developed by**                   |          | Character limit: 255    |
